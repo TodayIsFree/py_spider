@@ -1,4 +1,4 @@
-目标：百度百科Python词条相关词条网页 -标题和简介
+git目标：百度百科Python词条相关词条网页 -标题和简介
 入口页：https://baike.baidu.com/view/21087.htm
 URL格式：
 	——词条页面URL：/view/12530.htm
@@ -7,7 +7,7 @@ URL格式：
 	——简介：<div class = "lemma-summary">...</div>
 页面编码：UTF-8
 
-目标：理想论坛华泰词条相关词条网页 -标题
+目标：理想论坛词条相关词条网页 -标题
 入口页：https://www.55188.com/forum.php?mod=forumdisplay&fid=68
 URL格式：
 	词条页面URL：https://www.55188.com/forum.php?mod=viewthread&tid=8953014
