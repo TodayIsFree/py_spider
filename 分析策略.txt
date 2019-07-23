@@ -1,0 +1,17 @@
+目标：百度百科Python词条相关词条网页 -标题和简介
+入口页：https://baike.baidu.com/view/21087.htm
+URL格式：
+	——词条页面URL：/view/12530.htm
+数据格式：
+	——标题：<dd class="lemma...."><h1>...</h1></dd>
+	——简介：<div class = "lemma-summary">...</div>
+页面编码：UTF-8
+
+目标：理想论坛华泰词条相关词条网页 -标题
+入口页：https://www.55188.com/forum.php?mod=forumdisplay&fid=68
+URL格式：
+	词条页面URL：https://www.55188.com/forum.php?mod=viewthread&tid=8953014
+	<a href="https://www.55188.com/forum.php?mod=viewthread&amp;tid=8953014" target="_blank" class="subject" title="用来用去-还是这个最完美" id="thread_8953014">用来用去-还是这个最完美</a>
+数据格式：
+	——标题：<article id="mormalthread_8389902" class="a-except-t><div class="cell1><em>...</em></div></article>
+页面编码：gbk
